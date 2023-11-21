@@ -14,9 +14,9 @@ The project focuses on interpreting and visualizing data for specific Sustainabl
 
 The project uses data from the United Nations Statistics Division SDG Data Portal. Participants can download the relevant data from [SDG Data Portal](https://unstats.un.org/sdgs/dataportal/database) by following the provided instructions in the Problem Statement.
 
-### Dashboard Examples
+### Dashboard
 
-A sample dashboard has been created for the goal of "Affordable and Clean Energy." The dashboard includes visuals that depict the current state of affairs related to this specific goal.
+A dashboard has been created for the goal of "Affordable and Clean Energy." The dashboard includes visuals that depict the current state of affairs related to this specific goal.
 
 ## Getting Started
 
