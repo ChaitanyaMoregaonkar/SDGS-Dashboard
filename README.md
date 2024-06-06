@@ -18,14 +18,5 @@ The project uses data from the United Nations Statistics Division SDG Data Porta
 
 A dashboard has been created for the goal of "Affordable and Clean Energy." The dashboard includes visuals that depict the current state of affairs related to this specific goal.
 
-## Getting Started
 
-### Prerequisites
-
-- Tableau Desktop or Tableau Public for opening and editing Tableau workbooks.
-- A web browser to download data from the SDG Data Portal.
-
-### Installation
-
-1. Clone the repository to your local machine:
 
